@@ -133,3 +133,6 @@ dmypy.json
 .idea/
 .DS_Store
 test.ipynb
+test.py
+t.py
+store
